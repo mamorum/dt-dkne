@@ -1,3 +1,63 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Project
+baseURL: "https://mamorum.github.io/dt-dkne/"
+locale: "ja-jp"
+title: "Dkne"
+theme: hextra
+
+disableKinds:
+  - taxonomy
+  - term
+
+enableRobotsTXT: true
+hasCJKLanguage: true
+
+# services:
+#   googleAnalytics:
+#     ID: G-MEASUREMENT_ID
+
+outputs:
+  home: [html, llms]
+  page: [html, markdown]
+  section: [html, markdown]
+
+defaultContentLanguage: ja
+languages:
+  ja:
+    label: "日本語"
+    weight: 1
+
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+
+menu:
+  main:
+    - identifier: documentation
+      name: ドキュメント
+      pageRef: /docs
+      weight: 1
+    - name: ダウンロード
+      pageRef: /docs/download
+      weight: 2
+
+params:
+  description: Dkne 投資分析アプリ
+  externalLinkDecoration: true
+  navbar:
+    displayTitle: true
+    displayLogo: false
+    width: wide
+  theme:
+    default: system
+    displayToggle: true
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: true
+    width: normal
+  page:
+    width: normal
+    contextMenu:
+      enable: true
