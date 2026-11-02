@@ -42,7 +42,7 @@ layout: hextra-home
   >}}
   {{< hextra/feature-card
     title="AIとの親和性"
-    subtitle="アプリの出力内容はマークダウンで、AIに解析してもらうことができます。"
+    subtitle="アプリの分析結果はマークダウンで、AIが解析することもできます。"
   >}}
   {{< hextra/feature-card
     title="LLM非依存"
