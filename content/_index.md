@@ -29,7 +29,7 @@ layout: hextra-home
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
-    title="様々なアセットに対応"
+    title="複数のアセットに対応"
     subtitle="投資信託、指数、ETF、株式などのデータを分析することができます。"
   >}}
   {{< hextra/feature-card
@@ -46,7 +46,7 @@ layout: hextra-home
   >}}
   {{< hextra/feature-card
     title="LLM非依存"
-    subtitle="複数のAIモデルで、アプリの分析結果を解析することができます。"
+    subtitle="アプリの分析結果は、複数のAIモデルが解析できます。"
   >}}
   {{< hextra/feature-card
     title="表計算アプリとの親和性"
