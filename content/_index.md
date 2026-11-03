@@ -34,7 +34,7 @@ layout: hextra-home
   >}}
   {{< hextra/feature-card
     title="各種統計の出力"
-    subtitle="リターン、ドローダウン、リスクなどの指標を出力することができます。"
+    subtitle="リターン、ドローダウン、リスクといった指標を出力することができます。"
   >}}
   {{< hextra/feature-card
     title="GUIアプリ"
@@ -46,10 +46,10 @@ layout: hextra-home
   >}}
   {{< hextra/feature-card
     title="LLM非依存"
-    subtitle="ChatGPT, Claude, Gemini, Copilotなどのモデルに、分析結果を送信することができます。"
+    subtitle="複数のAIモデルで、アプリの分析結果を解析することができます。"
   >}}
   {{< hextra/feature-card
-    title="表計算との親和性"
+    title="表計算アプリとの親和性"
     subtitle="表出力をTSVにすると、スプレッドシートに貼り付けることができます。"
   >}}
 {{< /hextra/feature-grid >}}
