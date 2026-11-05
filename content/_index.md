@@ -50,6 +50,6 @@ layout: hextra-home
   >}}
   {{< hextra/feature-card
     title="表計算アプリとの親和性"
-    subtitle="表出力をTSVにすると、スプレッドシートに貼り付けることができます。"
+    subtitle="表出力をTSVにすると、表をスプレッドシートに貼り付けることができます。"
   >}}
 {{< /hextra/feature-grid >}}
