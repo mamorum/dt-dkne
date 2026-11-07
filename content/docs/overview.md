@@ -3,8 +3,8 @@ title: 概要
 weight: 1
 ---
 
-## Dkneとは？
-Dkneは、アセットのリターン、ドローダウン、リスクを分析するアプリです。
+## DtDkneとは？
+DtDkneは、アセットのリターン、ドローダウン、リスクを分析するアプリです。
 
 分析の際は、共通形式の日次CSVを使用します。
 
@@ -34,7 +34,7 @@ Date,Close,Dividends
 
 [CsvCft 投資分析用CSV変換ツール（無料）](https://mamorum.github.io/csvcft/)
 
-※ 変換ツールの使用を強制するものではありません。
+※ CsvCftの使用は任意です。
 
 
 ## 動作環境
