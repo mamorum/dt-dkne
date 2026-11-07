@@ -1,6 +1,6 @@
 ---
-title: UI・基本操作
-weight: 2
+title: UI・操作
+weight: 3
 ---
 
 ## UI
