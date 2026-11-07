@@ -1,6 +1,6 @@
 ---
 title: 動作・前提
-weight: 3
+weight: 4
 ---
 
 ## 再投資
