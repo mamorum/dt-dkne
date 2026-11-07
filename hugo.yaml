@@ -1,6 +1,6 @@
 baseURL: "https://mamorum.github.io/dt-dkne/"
 locale: "ja-jp"
-title: "Dkne"
+title: "DtDkne"
 theme: hextra
 
 disableKinds:
@@ -43,7 +43,7 @@ menu:
       weight: 2
 
 params:
-  description: Dkne 投資分析アプリ
+  description: DtDkne 投資分析アプリ
   externalLinkDecoration: true
   navbar:
     displayTitle: true
