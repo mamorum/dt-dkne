@@ -12,11 +12,11 @@ DtDkneは、アセットのリターン、ドローダウン、リスクを分�
 ## CSVの形式
 共通形式のCSVは、以下の列で構成されます。
 
-- Date: 日付
+- Date: 日付（yyyy-MM-dd）
 - Close: 終値, 基準価額
 - Dividends: 配当金, 分配金
 
-データは、日付の昇順になっている必要があります。
+列順は固定で、データは日付の昇順になっている必要があります。
 
 ```csv {filename="例: 共通形式のCSV"}
 Date,Close,Dividends
