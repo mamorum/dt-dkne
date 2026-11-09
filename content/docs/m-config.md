@@ -1,6 +1,6 @@
 ---
 title: 設定メニュー
-weight: 6
+weight: 8
 ---
 
 ## 最大期間
