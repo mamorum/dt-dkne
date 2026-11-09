@@ -1,6 +1,6 @@
 ---
 title: インストール
-weight: 11
+weight: 3
 ---
 
 ## ZIPの解凍
