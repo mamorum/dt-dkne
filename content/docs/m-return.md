@@ -1,6 +1,6 @@
 ---
 title: 収益メニュー
-weight: 7
+weight: 9
 ---
 
 ## 総収益
