@@ -1,6 +1,6 @@
 ---
 title: ダウンロード
-weight: 10
+weight: 2
 ---
 
 ## アプリ
