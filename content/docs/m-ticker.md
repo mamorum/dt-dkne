@@ -1,6 +1,6 @@
 ---
 title: 銘柄メニュー
-weight: 5
+weight: 7
 ---
 
 ## 全フォルダ
