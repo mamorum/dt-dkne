@@ -1,6 +1,6 @@
 ---
 title: CSVの配置
-weight: 2
+weight: 4
 ---
 
 CsvCftでCSVを選択して変換すると、以下のフォルダと共通形式のCSVが生成されます。
