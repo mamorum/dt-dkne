@@ -35,7 +35,7 @@ Date,Close,Dividends
 
 [CsvCft 投資分析用CSV変換ツール（無料）](https://mamorum.github.io/csvcft/)
 
-CsvCftのご利用は任意です。表計算アプリやPythonなどを使って、CSVを用意することも可能です。
+変換ツールのご利用は任意です。表計算アプリやPythonなどを使って、CSVを用意することも可能です。
 
 
 ## 動作環境
