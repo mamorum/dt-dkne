@@ -47,4 +47,6 @@ Date,Close,Dividends
 
 
 ## TSV表出力
-表出力をTSVに設定します。
+表出力をTSV（Tab-Separated Values）に設定します。
+
+表をスプレッドシートに貼り付ける場合を想定しています。
