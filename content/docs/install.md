@@ -8,9 +8,10 @@ weight: 3
 
 
 ## アプリのコピー
-DtDkne.exe を、ユーザーフォルダ配下などの書き込み可能な場所にコピーします。
+1. ユーザーフォルダなどの書き込み可能な場所にフォルダを作成します（例. Dkne）
+2. 作成したフォルダに、解凍先にある DtDkne.exe をコピーします
 
-| コピー先のパス                 | 例                                   |
-| :----------------------------- | :----------------------------------- |
-| %USERPROFILE%\Dkne             | C:\Users\ユーザー名\Dkne             |
-| %USERPROFILE%\Documents\Dkne   | C:\Users\ユーザー名\Documents\Dkne   |
+| コピー先のパス                 | 例                                 |
+| :----------------------------- | :--------------------------------- |
+| %USERPROFILE%\Dkne             | C:\Users\ユーザー名\Dkne           |
+| %USERPROFILE%\Documents\Dkne   | C:\Users\ユーザー名\Documents\Dkne |
