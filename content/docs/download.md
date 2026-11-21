@@ -6,7 +6,7 @@ weight: 2
 ## アプリ
 以下のページから、アプリを購入してダウンロードすることができます。
 
-[【TODO:リンク変更】 DtDkne 投資分析アプリ - BOOTH](https://mamorum.booth.pm/items/9037905)
+[DtDkne 投資分析アプリ - BOOTH](https://mamorum.booth.pm/items/9191448)
 
 
 ## ダウンロード後の推奨操作
